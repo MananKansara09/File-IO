@@ -18,8 +18,8 @@
     "url": "https://github.com/codesandbox-app/static-template/issues"
   },
   "homepage": "https://github.com/codesandbox-app/static-template#readme",
-  "devDependencies": {},
   "dependencies": {
+    "csv-parse": "^5.3.6",
     "nodemon": "^2.0.20"
   }
 }
